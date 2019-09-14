@@ -1,0 +1,20 @@
+{
+    "name": "mibit_IR",
+    "version": "1.1.0",
+    "description": "Extension for XR-Robot m:bit IR receiver module",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "TransmitterIR.cpp",
+        "TransmitterIR.h"
+    ],
+    "public": true
+}
