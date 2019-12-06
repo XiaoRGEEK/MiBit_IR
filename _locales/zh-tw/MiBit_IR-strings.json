@@ -1,0 +1,5 @@
+{
+
+  "mibit_IR.ir_received_left_event|block": "當 |%btn| 按鈕被按下",
+  "mibit_IR.ir_init|block": "連接紅外引脚 %pin"
+}
