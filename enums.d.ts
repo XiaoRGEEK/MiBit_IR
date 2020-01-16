@@ -67,7 +67,7 @@
     //% block=Num9
     Num9 = 0x4A,
     }
-declare namespace Explorer_IR {
+declare namespace MiBit_IR {
 }
 
 // Auto-generated. Do not edit. Really.

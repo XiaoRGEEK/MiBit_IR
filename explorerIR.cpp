@@ -74,7 +74,7 @@ enum class RemoteButton
 
 //% color=#5b78fa weight=10 
 //% icon="\uf1eb"
-namespace Explorer_IR { 
+namespace MiBit_IR { 
   map<RemoteButton, vA> actions;
   map<RemoteButton, uint32_t> lastact;
   Timer tsb; 
@@ -120,7 +120,7 @@ namespace Explorer_IR {
   /**
   * set button pressed event handler.
   */
-  //% blockId=explorer_ir_button_pressed_event
+  //% blockId=MiBit_IR_button_pressed_event
   //% block="on button |%btn| pressed"
   void onPressEvent(RemoteButton btn, Action body) {
     static bool inited = false;

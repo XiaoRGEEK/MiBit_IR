@@ -1,7 +1,7 @@
 {
-  "Explorer_IR.onPressEvent|block": "on button |%btn| pressed",
-  "Explorer_IR.initIR|block": "connect ir receiver to %pin",
-  "Explorer_IR|block": "MiBit_IR",
+  "MiBit_IR.onPressEvent|block": "on button |%btn| pressed",
+  "MiBit_IR.initIR|block": "connect ir receiver to %pin",
+  "MiBit_IR|block": "MiBit_IR",
   "RemoteButton.Power|block": "Power",
   "RemoteButton.Menu|block": "Menu",
   "RemoteButton.Test|block": "Test",
@@ -22,5 +22,5 @@
   "RemoteButton.Num7|block": "Num7",
   "RemoteButton.Num8|block": "Num8",
   "RemoteButton.Num9|block": "Num9",
-  "{id:category}Explorer_IR": "MiBit_IR"
+  "{id:category}MiBit_IR": "MiBit_IR"
 }

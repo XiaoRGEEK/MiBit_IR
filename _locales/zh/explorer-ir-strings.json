@@ -1,7 +1,7 @@
 {
-  "Explorer_IR.onPressEvent|block": "当按键 |%btn| 被按下时",
-  "Explorer_IR.initIR|block": "连接红外引脚 %pin",
-  "Explorer_IR|block": "MiBit红外遥控",
+  "MiBit_IR.onPressEvent|block": "当按键 |%btn| 被按下时",
+  "MiBit_IR.initIR|block": "连接红外引脚 %pin",
+  "MiBit_IR|block": "MiBit红外遥控",
   "RemoteButton.Power|block": "电源",
   "RemoteButton.Menu|block": "菜单键",
   "RemoteButton.Test|block": "测试键",
@@ -22,5 +22,5 @@
   "RemoteButton.Num7|block": "数字7",
   "RemoteButton.Num8|block": "数字8",
   "RemoteButton.Num9|block": "数字9",
-  "{id:category}Explorer_IR": "MiBit红外遥控"
+  "{id:category}MiBit_IR": "MiBit红外遥控"
 }
