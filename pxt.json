@@ -1,8 +1,7 @@
 {
     "name": "mibit_IR",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "Extension for XR-Robot m:bit IR receiver module",
-    "license": "MIT",
     "dependencies": {
         "core": "*"
     },
@@ -15,8 +14,12 @@
         "RemoteIR.h",
         "TransmitterIR.cpp",
         "TransmitterIR.h",
-        "_locales/zh-cn/mibitir-strings.json",
-        "_locales/zh-tw/mibitir-strings.json"
+        "_locales/zh-cn/mibit-ir-strings.json",
+        "_locales/zh-cn/mibit-ir-jsdoc-strings.json"
     ],
-    "public": true
+    "testFiles": [
+        "test.ts"
+        ],
+    "public": true,
+    "license": "MIT"
 }

@@ -1,5 +1,0 @@
-{
-
-  "Mbit_IR.onPressEvent|block": "当 |%btn| 按钮被按下",
-  "Mbit_IR.init|block": "连接红外引脚 %pin"
-}

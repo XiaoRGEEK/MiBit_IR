@@ -4,13 +4,13 @@
 
     //% color="#31C7D5" weight=19
     //% icon="\uf1eb"
-declare namespace mibit_IR {
+declare namespace MiBit_IR {
 
     /**
      * button pushed.
      */
     //% blockId=ir_received_left_event
-    //% block="on |%btn| button pressed" shim=Mbit_IR::onPressEvent
+    //% block="on |%btn| button pressed" shim=MiBit_IR::onPressEvent
     function onPressEvent(btn: RemoteButton, body: () => void): void;
 
     /**
