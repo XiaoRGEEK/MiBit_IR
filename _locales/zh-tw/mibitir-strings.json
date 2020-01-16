@@ -1,5 +1,5 @@
 {
 
-  "mibit_IR.onPressEvent|block": "當 |%btn| 按鈕被按下",
-  "mibit_IR.init|block": "連接紅外引脚 %pin"
+  "Mbit_IR.onPressEvent|block": "當 |%btn| 按鈕被按下",
+  "Mbit_IR.init|block": "連接紅外引脚 %pin"
 }
