@@ -2,7 +2,7 @@
 
 
 
-    //% color=#5b78fa weight=10 
+    //% color=#31C7D5 weight=10 
     //% icon="\uf1eb"
 declare namespace Explorer_IR {
 
@@ -17,7 +17,7 @@ declare namespace Explorer_IR {
      */
     //% blockId=ir_init
     //% block="connect ir receiver to %pin" shim=Explorer_IR::initIR
-    function init(pin: Pins): void;
+    function initIR(pin: Pins): void;
 
 }
 
