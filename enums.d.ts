@@ -24,7 +24,8 @@
     }
 
 
-    declare enum RemoteButton {
+    declare const enum RemoteButton
+    {
     Power = 0x45,
     Menu = 0x47,
     Test = 0x44,

@@ -1,23 +1,23 @@
 {
-    "name": "mibit_IR",
+    "name": "mibit-ir",
     "version": "1.2.0",
-    "description": "Extension for XR-Robot m:bit IR receiver module",
+    "description": "ir extension for explorer robot",
     "dependencies": {
-        "core": "*"
+        "core": "*",
         "radio": "*"
     },
     "files": [
         "README.md",
         "shims.d.ts",
         "enums.d.ts",
-        "ir.cpp",
+        "explorerIR.cpp",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
         "RemoteIR.h",
         "TransmitterIR.cpp",
         "TransmitterIR.h",
-        "_locales/zh-cn/mibit-ir-strings.json",
-        "_locales/zh-cn/mibit-ir-jsdoc-strings.json"
+        "_locales/zh/explorer-ir-strings.json",
+        "_locales/zh/explorer-ir-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"

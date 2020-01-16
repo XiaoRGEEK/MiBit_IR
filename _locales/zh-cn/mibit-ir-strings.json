@@ -1,6 +1,0 @@
-{
-  "MiBit_IR.onPressEvent|block": "当 |%btn| 按钮被按下",
-  "MiBit_IR.init|block": "连接红外引脚 %pin",
-  "MiBit_IR|block": "MiBit红外遥控",
-  "{id:category}MiBit_IR": "MiBit红外遥控"
-}
