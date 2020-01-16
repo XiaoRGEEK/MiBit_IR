@@ -1,6 +1,6 @@
 {
   "Explorer_IR.onPressEvent|block": "on button |%btn| pressed",
-  "Explorer_IR|block": "Explorer_IR",
+  "Explorer_IR|block": "MiBit_IR",
   "RemoteButton.Asterisk|block": "Asterisk",
   "RemoteButton.Down|block": "Down",
   "RemoteButton.Eight|block": "Eight",
@@ -18,5 +18,5 @@
   "RemoteButton.Two|block": "Two",
   "RemoteButton.Up|block": "Up",
   "RemoteButton.Zero|block": "Zero",
-  "{id:category}Explorer_IR": "Explorer_IR",
+  "{id:category}Explorer_IR": "MiBit_IR",
 }
