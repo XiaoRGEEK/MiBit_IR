@@ -4,8 +4,10 @@
     "description": "Extension for XR-Robot m:bit IR receiver module",
     "dependencies": {
         "core": "*"
+        "radio": "*"
     },
     "files": [
+        "README.md",
         "shims.d.ts",
         "enums.d.ts",
         "ir.cpp",

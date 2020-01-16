@@ -17,7 +17,7 @@ declare namespace MiBit_IR {
      * initialises local variablesssss
      */
     //% blockId=ir_init
-    //% block="connect ir receiver to %pin" shim=Mbit_IR::init
+    //% block="connect ir receiver to %pin" shim=MiBit_IR::init
     function init(pin: Pins): void;
 }
 
