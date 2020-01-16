@@ -15,8 +15,8 @@
         "RemoteIR.h",
         "TransmitterIR.cpp",
         "TransmitterIR.h",
-        "_locales/zh-cn/MiBit_IR-strings.json",
-        "_locales/zh-tw/MiBit_IR-strings.json"
+        "_locales/zh-cn/mibitir-strings.json",
+        "_locales/zh-tw/mibitir-strings.json"
     ],
     "public": true
 }
