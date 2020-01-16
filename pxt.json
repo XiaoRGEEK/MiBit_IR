@@ -1,6 +1,6 @@
 {
-    "name": "mibit-ir",
-    "version": "1.2.0",
+    "name": "explorer-ir",
+    "version": "0.0.0",
     "description": "ir extension for explorer robot",
     "dependencies": {
         "core": "*",

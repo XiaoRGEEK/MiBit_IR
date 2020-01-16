@@ -1,5 +1,22 @@
 {
-  "MiBit_IR.onPressEvent|block": "当按键 |%btn| 被按下时",
-  "MiBit_IR|block": "MiBit红外遥控",
-  "{id:category}MiBit_IR": "MiBit红外遥控"
+  "Explorer_IR.onPressEvent|block": "当按键 |%btn| 被按下时",
+  "Explorer_IR|block": "探索者-遥控",
+  "RemoteButton.Asterisk|block": "*",
+  "RemoteButton.Down|block": "下",
+  "RemoteButton.Eight|block": "8",
+  "RemoteButton.Five|block": "5",
+  "RemoteButton.Four|block": "4",
+  "RemoteButton.Left|block": "左",
+  "RemoteButton.Nine|block": "9",
+  "RemoteButton.Ok|block": "OK",
+  "RemoteButton.One|block": "1",
+  "RemoteButton.Right|block": "右",
+  "RemoteButton.Seven|block": "7",
+  "RemoteButton.Sharp|block": "#",
+  "RemoteButton.Six|block": "6",
+  "RemoteButton.Three|block": "3",
+  "RemoteButton.Two|block": "2",
+  "RemoteButton.Up|block": "上",
+  "RemoteButton.Zero|block": "0",
+  "{id:category}Explorer_IR": "探索者-遥控"
 }
