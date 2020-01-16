@@ -17,7 +17,9 @@
         "TransmitterIR.cpp",
         "TransmitterIR.h",
         "_locales/zh/explorer-ir-strings.json",
-        "_locales/zh/explorer-ir-jsdoc-strings.json"
+        "_locales/zh/explorer-ir-jsdoc-strings.json",
+        "_locales/zh-tw/explorer-ir-strings.json",
+        "_locales/zh-tw/explorer-ir-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
