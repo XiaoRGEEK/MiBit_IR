@@ -1,7 +1,7 @@
 {
     "name": "explorer-ir",
     "version": "1.2.0",
-    "description": "Extension for MiBit micro:bit IR receiver module",
+    "description": "Extension for MiBit micro:bit IR receiver module 1.2.0",
     "dependencies": {
         "core": "*"
     },
@@ -15,9 +15,11 @@
         "RemoteIR.h",
         "TransmitterIR.cpp",
         "TransmitterIR.h",
+        "_locales/en/explorer-ir-strings.json",
+        "_locales/en/explorer-ir-jsdoc-strings.json",
         "_locales/zh/explorer-ir-strings.json",
-        "_locales/zh-tw/explorer-ir-strings.json",
         "_locales/zh/explorer-ir-jsdoc-strings.json",
+        "_locales/zh-tw/explorer-ir-strings.json",
         "_locales/zh-tw/explorer-ir-jsdoc-strings.json"
     ],
     "testFiles": [
